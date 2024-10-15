@@ -2,6 +2,7 @@
 body {
   font-family: Roboto, sans-serif;
   margin: 0;
+  padding 0%;
 }
 
 .container {
@@ -14,7 +15,8 @@ body {
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
-    margin: 0%;
+    padding 0%;
+    margin 0%;
 
 }
   /* Свойства ссылок */
@@ -50,6 +52,8 @@ h4 {
 
 h1 {
   font-size: 2em;
+  margin: 0em;
+
 }
 
 h2 {
